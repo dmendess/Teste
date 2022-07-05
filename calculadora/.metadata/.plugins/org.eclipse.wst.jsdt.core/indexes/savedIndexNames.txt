@@ -1,3 +1,0 @@
-INDEX VERSION 1.4+/home/daniel/projetos/calculadora/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
-1457359993.index
-1251217733.index

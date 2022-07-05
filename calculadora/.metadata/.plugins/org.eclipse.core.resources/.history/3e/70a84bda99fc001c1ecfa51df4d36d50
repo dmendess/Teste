@@ -1,5 +1,0 @@
-package br.com.calc.enums;
-
-public enum Operacoes {
-
-}
