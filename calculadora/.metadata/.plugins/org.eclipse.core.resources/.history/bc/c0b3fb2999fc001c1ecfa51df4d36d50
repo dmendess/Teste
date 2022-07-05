@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Calculadora</title>
+</head>
+<body>
+ <form action="" method="get">
+ <label>Valor 1:</label>
+ <input type="text" name="valor1" />
+ 
+ <label>Valor 2:</label>
+ <input type="text" name="valor2" />
+ 
+ <select name="opcao">
+ 	<option value="+">(+)</option>
+ 	<option value="-">(-)</option>
+ 	<option value="*">(*)</option>
+ 	<option value="/">(/)</option>
+ </select>
+ <input type="submit" value="Calcular" />
+ 
+ </form>
+</body>
+</html>

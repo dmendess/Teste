@@ -1,0 +1,18 @@
+package br.com.calc.enums;
+
+public enum Operacoes {
+	
+	SOMA (1,"Soma"),
+	SUBTRACAO (2,"Subratração"),
+	MULTIPLICACAO (3,"Multiplicação"),
+	DIVISAO (4,"Divisão");
+	
+	
+	Operacoes(int i, String string) {
+		// TODO Auto-generated constructor stub
+	}
+	
+	private Integer codigoOperacao;
+	private String nomeOperacao;
+
+}
